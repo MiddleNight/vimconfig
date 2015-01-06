@@ -6,6 +6,6 @@ vimconfig
 
 2. Install Plugins:
 
-Launch vim and run : `PluginInstall`
+   Launch vim and run : `PluginInstall`
 
-To install from command line: `vim +PluginInstall +qall`
+   To install from command line: `vim +PluginInstall +qall`
