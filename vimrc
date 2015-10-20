@@ -12,7 +12,7 @@ Plugin 'gmarik/Vundle.vim'
 
 Plugin 'ervandew/supertab'
 
-Plugin 'madflow/vim-php'
+Plugin 'sadleon/vim-php'
 
 Plugin 'altercation/vim-colors-solarized'
 
